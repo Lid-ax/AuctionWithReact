@@ -1,0 +1,39 @@
+.act-header{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.row-center-style {
+    display: flex;
+    /* margin-top: 3rem; */
+    justify-content: center ; 
+}
+
+.container-center-style{
+    margin-top: 3rem;
+}
+.btn-style{
+    display: flex;
+justify-content: center;
+margin: 30px 0px;
+}
+#table-current-act-style {
+    padding: 2rem;
+}
+#heading-table-act {
+   font-family: "Arial";
+   font-weight: 520;
+   margin-bottom: 2.8rem;
+   display: flex;
+   justify-content: center;
+}
+
+.btn-home-bid {
+   width: 4.3rem;
+}
+
+.new-auction-photo {
+    max-width:610 px ;
+    max-height: 350px;
+}

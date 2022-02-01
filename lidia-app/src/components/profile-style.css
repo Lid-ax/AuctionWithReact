@@ -1,0 +1,18 @@
+.profile-btn {
+    display: flex;
+    justify-content: center;
+}
+.btn-win,
+.btn-own {
+    font-weight: bold !important;
+    background-color: #e2e8ce !important;
+    color: #262626 !important;
+    border-color: #262626 !important;
+    padding: 50px;
+    width: 15rem;
+    height: 15rem;
+    margin: 165px 85px;
+}
+/* .btn-own button:hover {
+    background-color: black !important;
+} */
